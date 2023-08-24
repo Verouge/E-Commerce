@@ -73,7 +73,7 @@ git clone 'git@github.com:Verouge/E-Commerce.git'
 ### 3. Seeding the Database:
 
 - If you'd like to populate the database with sample data, ensure you've run `npm start` first to set up the tables.
-- Then, in the terminal, execute: npm run seed to seed the database with sample entries.
+- Then, in the terminal, execute: `npm run seed` to seed the database with sample entries.
 
 ### 4. Launching the Server:
 
